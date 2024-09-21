@@ -39,7 +39,7 @@ fn part_one(input: &str) -> String {
 }
 
 #[test]
-fn part1_tests() {
+fn part_one_tests() {
     assert_eq!(part_one("(())"), "0");
     assert_eq!(part_one("()()"), "0");
     assert_eq!(part_one("((("), "3");
@@ -86,7 +86,7 @@ fn part_two(input: &str) -> String {
 }
 
 #[test]
-fn part2_tests() {
+fn part_two_tests() {
     assert_eq!(part_two(")"), "1");
     assert_eq!(part_two("()())"), "5");
 }
