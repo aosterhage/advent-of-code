@@ -16,8 +16,8 @@ string.
 ### Rust
 All Rust solutions will be located under a `rust` directory.  This directory is
 the project root for that day and each project utilizes `Cargo` for management.
-This requires you to have `Cargo` installed and available in your `PATH` to run.
-Navigate to the project root and issue the commands you want.
+This requires you to have `Cargo` installed to run the solutions. Navigate to
+the project root and issue the commands you want.
 
 - To run the solution and print the answers:
 
