@@ -36,5 +36,5 @@ the project root and issue the commands you want.
     ```
     - Note that if you are using Safari, it prevents loading of the CSS file for
       the generated documentation. You must enable the `Show features for web
-      developers` option and restart. You might also need to enable the `Diable
+      developers` option and restart. You might also need to enable the `Disable
       local file restrictions` option in the Developer menu.
