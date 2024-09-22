@@ -22,7 +22,7 @@ the project root and issue the commands you want.
 - To run the solution and print the answers:
 
     ```sh
-    cargo run
+    cargo run --release
     ```
 - To run the tests for the solution (which are provided by Advent of Code's prompts):
 
